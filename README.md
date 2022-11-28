@@ -11,5 +11,5 @@
 > 
 > ### Key Words 
 > **pedestrian trajectory prediction; spatial-temporal convolution; self-attention mechanism; bidirectional long short-term memory; two-dimensional Gaussian distribution**
-> ### Model Stucture Figure
+> ### Model Stucture Diagram
 > ![image](https://github.com/Zhou-owl/arxiv-undergrad-thesis/blob/main/model%20structure.png)
